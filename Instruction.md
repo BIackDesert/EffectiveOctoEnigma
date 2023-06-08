@@ -23,3 +23,7 @@
 > **git checkout **[branch_name]** – переход к другой ветке
 
 > **git checkout  -b [branch_name]** - удалить ветку под названием branch_name
+
+> **git commit -am “message”** – добавление файлов в отслеживание и создание коммита
+
+> *git log --oneline* - коротенький журнал
