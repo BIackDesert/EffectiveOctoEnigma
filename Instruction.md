@@ -19,3 +19,5 @@
 ![Картинка](https://wallpapershome.ru/images/pages/pic_v/21485.jpg)
 
 # Основные команды 2-го семинара
+
+> **git checkout **[branch_name]** – переход к другой ветке
